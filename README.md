@@ -29,7 +29,4 @@ Here are some ideas to get you started:
   <p>
     <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhclly&layout=compact&title_color=81A1C1&bg_color=ffffff" />
   </p>
-  <p>
-    <img src="https://osu-sig.vercel.app/card?user=dhclly&mode=std&animation=true&hue=125" />
-  </p>
 </p>
