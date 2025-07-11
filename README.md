@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ChongQing,China
 - 🌱 I’m currently learning AI LLM
+- 🌱 I’m currently learning CSharp
+- 🌱 I’m currently learning Frontend
 
 <p align="center">
   <p>
